@@ -1,0 +1,1 @@
+this is the file to be read for learning fs module in detail

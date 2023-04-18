@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  },
+  "name": "studies",
+  "version": "1.0.0",
+  "description": "studies",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "hey"
+  },
+  "keywords": [
+    "studies"
+  ],
+  "author": "shireen",
+  "license": "ISC"
+}
